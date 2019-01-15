@@ -9,10 +9,17 @@ I am currently involved in a reading program at UCLA, and the current topic we a
 
 
 ## What is interpretability?
+Borrowing definitions from the compresensive guide to interpretable machine learning by Christopher Molnar [https://christophm.github.io/interpretable-ml-book/], interpretability is the degree to which a human can consistently explain or interpret why a model makes certain decisions.
+
+We may not always need interpretability e.g. in low-risk or extensively studied problems, but knowing the why can help us learn more about *why a model might fail*.
+
+This also relates to tranparency and ethics: The EU for example mandates that automated decisions must be explainable and should respect fundamental rights. 
 
 
 ## Interpretable models
 ### 1. Sparse linear regression
+
+[01-lasso-sparsity.ipynb](/blob/master/01-lasso-sparsity.ipynb)
 
 Linear regression is very likely to be everyone's first formal introduction to inferential statistics or data science. We all know how to interpret a linear regression model, or we can learn very easily how to do so. This is an example of an interpretable model.
 
@@ -22,6 +29,3 @@ One example of such a model is the least absolute shrinkage and selection operat
 
 <a href="https://www.slideshare.net/UnchittaKan/interpretability-in-ml-sparse-linear-regression">(<img src="https://github.com/unchitta/interpretable-models/blob/master/images/lasso-slides-scrnshot.png" width="600">)</a>
 
-&nbsp;
-
-There is also a notebook file dedicated to demonstrating the variable selection property of lasso: [01-lasso-sparsity.ipynb](/blob/master/01-lasso-sparsity.ipynb)
