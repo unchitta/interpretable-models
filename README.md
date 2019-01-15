@@ -25,6 +25,4 @@ One example of such a model is the least absolute shrinkage and selection operat
 
 &nbsp;
 
-&nbsp;
-
 There is also a notebook file dedicated to demonstrating the variable selection property of lasso: [01-lasso-sparsity.ipynb](/blob/master/01-lasso-sparsity.ipynb)
