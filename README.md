@@ -3,9 +3,9 @@
 I am currently involved in a reading program at UCLA, and the current topic we are reading is interpretability in machine learning. This repo will contain theoritical notes and notebook files that demonstrate what it is and how we can implement it. The point of this is to study how to interpret models, but some models are easier to interpret than the others (thus giving an advantage of failure prevention) so we also study interpretable models and try to implement them as an example. Other methods used for model interpretation e.g. model-agnostic methods will be covered later on.
 
 # Table of Content
-* [1. What is interpretability?](#what-is-interpretability)
-* [2. Interpretable models](#interpretable-models)
-    * [2.1 Sparse linear regression](#sparse-linear-regression)
+1. [What is interpretability?](#what-is-interpretability)
+2. [Interpretable models](#interpretable-models)
+    2.1 [Sparse linear regression](#sparse-linear-regression)
 
 
 ## What is interpretability?
