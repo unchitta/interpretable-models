@@ -5,7 +5,7 @@ I am currently involved in a reading program at UCLA, and the current topic we a
 # Table of Content
 1. [What is interpretability?](#what-is-interpretability)
 2. [Interpretable models](#interpretable-models)
-    2.1 [Sparse linear regression](#sparse-linear-regression)
+    2.1. [Sparse linear regression](#sparse-linear-regression)
 
 
 ## What is interpretability?
