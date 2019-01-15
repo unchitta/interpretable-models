@@ -21,6 +21,6 @@ However, in practice, there can still be issues concerning interpretabily when u
 
 One example of such a model is the least absolute shrinkage and selection operator, aka LASSO regression. Lasso regression can be thought of as normal linear regression + L1 regularization, meaning it penalizes models with large L1 norms of the coeffient. The reason why it has the variable selection property, or the sparsity property, is due to this L1 norm regularization. It can be somewhat intuitive, but I have given a presentation explaining this and the slides can be accessed [here](https://www.slideshare.net/UnchittaKan/interpretability-in-ml-sparse-linear-regression).
 
-<a href="slides scrnsht">(<img src="https://github.com/unchitta/interpretable-models/blob/master/images/lasso-slides-scrnsht.png" width="400" align="center">)</a>
+<a href="slides scrnsht">(<img src="https://github.com/unchitta/interpretable-models/blob/master/images/lasso-slides-scrnshot.png" align="center" width="400">)</a>
 
 There is also a notebook file dedicated to demonstrating the variable selection property of lasso: [01-lasso-sparsity.ipynb](/blob/master/01-lasso-sparsity.ipynb)
