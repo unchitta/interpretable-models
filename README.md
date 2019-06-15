@@ -1,6 +1,6 @@
 # Interpretability in Machine Learning
 
-I am currently involved in a reading program at UCLA, and the current topic we are reading is interpretability in machine learning. This repo will contain theoritical notes and notebook files that demonstrate what it is and how we can implement it. The point of this is to study how to interpret models, but some models are easier to interpret than the others (thus giving an advantage of failure prevention) so we also study interpretable models and try to implement them as an example. Other methods used for model interpretation e.g. model-agnostic methods will be covered later on.
+I was involved in a reading program at UCLA, and the topic of interest was interpretability in machine learning. This repo contains theoritical notes and notebook files related to these materials. The point of this is to study how to interpret models, but some models are easier to interpret than the others (thus giving an advantage of failure prevention) so we also study interpretable models and try to implement them as an example. Other methods used for model interpretation e.g. model-agnostic methods will be covered later on.
 
 # Table of Content
 1. [What is interpretability?](#what-is-interpretability)
